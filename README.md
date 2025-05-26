@@ -56,7 +56,7 @@ Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Dese
 
 📫 **Contato**
 - Email: felipeloncarovichdossantos@gmail.com  
-- LinkedIn: [linkedin.com/in/felipe-loncarovich-567052332](https://www.linkedin.com/in/felipe-loncarovich-567052332)
+- LinkedIn: [linkedin.com/in/felipe-loncarovich](https://www.linkedin.com/in/felipeloncarovich/)
 
 ---
 
