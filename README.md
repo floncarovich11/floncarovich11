@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-Técnico%20em%20Desenvolvimento%20de%20Sistemas-blue" />
   <img src="https://img.shields.io/badge/SENAI-Shunji%20Nishimura-critical" />
-  <img src="https://img.shields.io/badge/Buscando-Estágio%20ou%20Aprendiz-success" />
 </p>
 
 ---
