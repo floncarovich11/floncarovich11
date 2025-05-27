@@ -9,7 +9,7 @@
 
 🎓 **Sobre mim**
 
-Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Desenvolvimento de Sistemas** integrado ao Ensino Médio e também atuo como **desenvolvedor full stack**. Sou apaixonado por tecnologia, estou em constante aprendizado e busco uma primeira oportunidade no mercado de trabalho como estagiário ou jovem aprendiz para aplicar meus conhecimentos, crescer profissionalmente e contribuir com inovação.
+Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Desenvolvimento de Sistemas** integrado ao Ensino Médio e também atuo como **desenvolvedor full stack**. Sou apaixonado por tecnologia, estou em constante aprendizado e busco oportunidades no mercado de trabalho como estagiário para aplicar meus conhecimentos, crescer profissionalmente e contribuir com inovação.
 
 ---
 
