@@ -2,14 +2,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-Técnico%20em%20Desenvolvimento%20de%20Sistemas-blue" />
-  <img src="https://img.shields.io/badge/SENAI-Shunji%20Nishimura-critical" />
+  <img src="https://img.shields.io/badge/Desenvolvedor-Full%20Stack-critical" />
 </p>
 
 ---
 
 🎓 **Sobre mim**
 
-Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Desenvolvimento de Sistemas** integrado ao Ensino Médio no **SENAI Shunji Nishimura**, com bolsa integral. Sou apaixonado por tecnologia, estou em constante aprendizado e busco uma primeira oportunidade no mercado de trabalho como estagiário ou jovem aprendiz para aplicar meus conhecimentos, crescer profissionalmente e contribuir com inovação.
+Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Desenvolvimento de Sistemas** integrado ao Ensino Médio e também atuo como **desenvolvedor full stack**. Sou apaixonado por tecnologia, estou em constante aprendizado e busco uma primeira oportunidade no mercado de trabalho como estagiário ou jovem aprendiz para aplicar meus conhecimentos, crescer profissionalmente e contribuir com inovação.
 
 ---
 
@@ -18,6 +18,7 @@ Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Dese
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -37,7 +38,7 @@ Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Dese
 ---
 
 🌱 **Estou aprendendo atualmente**
-- Desenvolvimento Web (HTML, CSS, JavaScript)
+- Desenvolvimento Web (HTML, CSS, JavaScript, React)
 - Lógica de programação com Python
 - Flutter e apps mobile
 - Banco de dados com SQL
@@ -56,6 +57,7 @@ Olá! Me chamo **Felipe Loncarovich**, sou estudante do curso técnico em **Dese
 📫 **Contato**
 - Email: felipeloncarovichdossantos@gmail.com  
 - LinkedIn: [linkedin.com/in/felipe-loncarovich](https://www.linkedin.com/in/felipeloncarovich/)
+
 
 ---
 
